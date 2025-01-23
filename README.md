@@ -45,11 +45,11 @@ Tehát az átváltás: **1 Watt=1 Volt* 1 Amper**. (1 W=1 V* 1 A)
 ### Vízszintes vonal
 ------
 ### Link
-[segédlet](//www.markdownguide.org)
+[segédlet](https://www.markdownguide.org)
 
 ### Kép
 
-![Pingvin](//www.markdownguide.org/assets/images/tux.png "Pingvin")
+![Pingvin](https://www.markdownguide.org/assets/images/tux.png "Pingvin")
 
 ### Táblázat
 
